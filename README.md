@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Visualization-Plotly-FF69B4" alt="Plotly">
 </div>
 
-**An AI-powered platform that combines Groq's lightning-fast LLMs with intuitive data analysis capabilities.** Ask questions in plain English and get instant insights + visualizations!
+**An AI-powered platform that combines Groq's lightning-fast LLMs with Microsoft MarkItDown, and PandasAI for smart document querying .** Ask questions in plain English and get instant insights + visualizations!
 
 
 ## 🚀 Key Features
