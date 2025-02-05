@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+langchain_groq
+pandasai
+openpyxl
+
